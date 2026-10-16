@@ -145,3 +145,5 @@ models/*.pkl
 
 # vscode Stuff
 .vscode
+# PowerPoint nicht hochladen  (Kap. 24)
+*.pptx
